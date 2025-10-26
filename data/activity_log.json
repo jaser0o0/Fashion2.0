@@ -1,0 +1,173 @@
+[
+  {
+    "timestamp": "2025-10-25T20:22:22.243859",
+    "activity": "query_processed",
+    "data": {
+      "user_id": "1b0c08cb-5244-43b8-9f52-1d1e153fd2c1",
+      "style": "vintage streetwear",
+      "has_image": false,
+      "body_shape": "hourglass"
+    }
+  },
+  {
+    "timestamp": "2025-10-25T20:22:22.246260",
+    "activity": "user_query_processed",
+    "data": {
+      "user_id": "1b0c08cb-5244-43b8-9f52-1d1e153fd2c1",
+      "style": "vintage streetwear",
+      "has_image": false
+    }
+  },
+  {
+    "timestamp": "2025-10-25T20:22:22.261465",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "vintage streetwear",
+      "max_items": 10
+    }
+  },
+  {
+    "timestamp": "2025-10-25T20:22:22.312806",
+    "activity": "recommendations_generated",
+    "data": {
+      "user_id": "1b0c08cb-5244-43b8-9f52-1d1e153fd2c1",
+      "recommendation_count": 5,
+      "outfit_count": 5
+    }
+  },
+  {
+    "timestamp": "2025-10-26T02:19:25.882426",
+    "activity": "query_processed",
+    "data": {
+      "user_id": "0a97be5c-2860-4850-addc-5cd325dae40c",
+      "style": "y2k",
+      "has_image": true,
+      "body_shape": "hourglass"
+    }
+  },
+  {
+    "timestamp": "2025-10-26T02:19:25.953807",
+    "activity": "user_query_processed",
+    "data": {
+      "user_id": "0a97be5c-2860-4850-addc-5cd325dae40c",
+      "style": "y2k",
+      "has_image": true
+    }
+  },
+  {
+    "timestamp": "2025-10-26T02:27:21.930132",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "y2k fashion",
+      "max_items": 20
+    }
+  },
+  {
+    "timestamp": "2025-10-26T02:39:31.157877",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "Playboi Carti Style Street wear",
+      "max_items": 20
+    }
+  },
+  {
+    "timestamp": "2025-10-26T03:41:54.171911",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "Kool Kids",
+      "max_items": 20
+    }
+  },
+  {
+    "timestamp": "2025-10-26T03:48:50.103729",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "playboi carti",
+      "max_items": 20
+    }
+  },
+  {
+    "timestamp": "2025-10-26T04:05:11.679941",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "Playboi Carti inspired outfits",
+      "max_items": 20
+    }
+  },
+  {
+    "timestamp": "2025-10-26T05:12:59.214774",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "playboi carti fits",
+      "max_items": 20
+    }
+  },
+  {
+    "timestamp": "2025-10-26T05:13:00.300126",
+    "activity": "scrape_error",
+    "data": {
+      "error": "'NoneType' object is not subscriptable"
+    }
+  },
+  {
+    "timestamp": "2025-10-26T05:14:05.301425",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "y2k",
+      "max_items": 20
+    }
+  },
+  {
+    "timestamp": "2025-10-26T05:14:06.957051",
+    "activity": "scrape_error",
+    "data": {
+      "error": "'NoneType' object is not subscriptable"
+    }
+  },
+  {
+    "timestamp": "2025-10-26T05:15:27.767377",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "Playboi Carti Style Street wear",
+      "max_items": 20
+    }
+  },
+  {
+    "timestamp": "2025-10-26T05:15:29.448485",
+    "activity": "scrape_error",
+    "data": {
+      "error": "'NoneType' object is not subscriptable"
+    }
+  },
+  {
+    "timestamp": "2025-10-26T05:20:59.463097",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "Playboi Carti Style Street wear",
+      "max_items": 20
+    }
+  },
+  {
+    "timestamp": "2025-10-26T05:21:01.209396",
+    "activity": "scrape_error",
+    "data": {
+      "error": "'NoneType' object is not subscriptable"
+    }
+  },
+  {
+    "timestamp": "2025-10-26T06:09:53.163868",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "Playboi Carti Style Street wear",
+      "max_items": 20
+    }
+  },
+  {
+    "timestamp": "2025-10-26T06:37:44.572360",
+    "activity": "scrape_requested",
+    "data": {
+      "keyword": "y2k outfits",
+      "max_items": 20
+    }
+  }
+]
