@@ -1,0 +1,204 @@
+[
+  {
+    "id": "pinterest_4",
+    "title": "Blazer - Vintage Style",
+    "description": "Perfect vintage blazer for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=4",
+    "source_url": "https://pinterest.com/pin/4",
+    "style": "vintage",
+    "category": "outerwear",
+    "price_range": "$60-120",
+    "colors": [
+      "white",
+      "gray"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "Urban Outfitters",
+    "likes": 967,
+    "saves": 466,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "outerwear",
+      "vintage"
+    ],
+    "fit_score": 75,
+    "style_score": 90,
+    "trend_score": 100,
+    "feedback_score": 75,
+    "overall_score": 84.5,
+    "explanation": "Great choice! This item works well with your preferences and body shape.",
+    "styling_tips": [
+      "Layer over a simple base",
+      "Belt it for a more defined silhouette"
+    ],
+    "recommended_at": "2025-10-25T20:22:22.311019"
+  },
+  {
+    "id": "pinterest_3",
+    "title": "Pencil Skirt - Vintage Style",
+    "description": "Perfect vintage pencil skirt for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=3",
+    "source_url": "https://pinterest.com/pin/3",
+    "style": "vintage",
+    "category": "bottom",
+    "price_range": "$50-100",
+    "colors": [
+      "gray",
+      "beige"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "ASOS",
+    "likes": 803,
+    "saves": 322,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "bottom",
+      "vintage"
+    ],
+    "fit_score": 75,
+    "style_score": 90,
+    "trend_score": 80,
+    "feedback_score": 75,
+    "overall_score": 80.5,
+    "explanation": "Great choice! This item works well with your preferences and body shape.",
+    "styling_tips": [
+      "Pair with a fitted top to balance proportions",
+      "Consider the right footwear for the occasion"
+    ],
+    "recommended_at": "2025-10-25T20:22:22.311008"
+  },
+  {
+    "id": "pinterest_6",
+    "title": "Heels - Vintage Style",
+    "description": "Perfect vintage heels for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=6",
+    "source_url": "https://pinterest.com/pin/6",
+    "style": "vintage",
+    "category": "shoes",
+    "price_range": "$80-150",
+    "colors": [
+      "brown",
+      "gray"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "ASOS",
+    "likes": 662,
+    "saves": 135,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "shoes",
+      "vintage"
+    ],
+    "fit_score": 75,
+    "style_score": 90,
+    "trend_score": 80,
+    "feedback_score": 75,
+    "overall_score": 80.5,
+    "explanation": "Great choice! This item works well with your preferences and body shape.",
+    "styling_tips": [],
+    "recommended_at": "2025-10-25T20:22:22.311036"
+  },
+  {
+    "id": "pinterest_7",
+    "title": "Graphic Tee - Vintage Style",
+    "description": "Perfect vintage graphic tee for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=7",
+    "source_url": "https://pinterest.com/pin/7",
+    "style": "vintage",
+    "category": "top",
+    "price_range": "$25-50",
+    "colors": [
+      "navy",
+      "white"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "Urban Outfitters",
+    "likes": 540,
+    "saves": 375,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "top",
+      "vintage"
+    ],
+    "fit_score": 75,
+    "style_score": 90,
+    "trend_score": 80,
+    "feedback_score": 75,
+    "overall_score": 80.5,
+    "explanation": "Great choice! This item works well with your preferences and body shape.",
+    "styling_tips": [
+      "Tuck in for a more polished look",
+      "Layer with a jacket or cardigan"
+    ],
+    "recommended_at": "2025-10-25T20:22:22.311044"
+  },
+  {
+    "id": "pinterest_10",
+    "title": "Wide-Leg Trousers - Vintage Style",
+    "description": "Perfect vintage wide-leg trousers for your wardrobe",
+    "image_url": "https://picsum.photos/300/400?random=10",
+    "source_url": "https://pinterest.com/pin/10",
+    "style": "vintage",
+    "category": "bottom",
+    "price_range": "$50-100",
+    "colors": [
+      "black",
+      "navy"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "Forever 21",
+    "likes": 712,
+    "saves": 8,
+    "created_at": "2024-01-15T10:30:00Z",
+    "tags": [
+      "vintage",
+      "bottom",
+      "vintage"
+    ],
+    "fit_score": 75,
+    "style_score": 90,
+    "trend_score": 80,
+    "feedback_score": 75,
+    "overall_score": 80.5,
+    "explanation": "Great choice! This item works well with your preferences and body shape.",
+    "styling_tips": [
+      "Pair with a fitted top to balance proportions",
+      "Consider the right footwear for the occasion"
+    ],
+    "recommended_at": "2025-10-25T20:22:22.311066"
+  }
+]
